@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Sample Video",
+    "title": "Free Sample Video",
     "thumb": "thumb1.jpg",
     "video": "video1.mp4",
     "price": 0
+  },
+  {
+    "id": 2,
+    "title": "Premium Video",
+    "thumb": "thumb2.jpg",
+    "video": "video2.mp4",
+    "price": 10000
   }
 ]
