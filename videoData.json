@@ -19,6 +19,13 @@
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb3.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video3.mp4",
     "price": 100
+  },
+  {
+    "id": 2,
+    "title": "tshirt",
+    "thumb": "https://gwmwtao123.github.io/freevideo/thumb4.jpg",
+    "video": "https://gwmwtao123.github.io/freevideo/video4.mp4",
+    "price": 100
   }
 ]
 
