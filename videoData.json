@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Free Demo Video",
+    "title": "Demo Video 1",
     "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg",
     "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video1.mp4",
     "price": 0
   },
   {
     "id": 2,
-    "title": "Premium Video",
+    "title": "Premium Video 2",
     "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb2.jpg",
     "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video2.mp4",
     "price": 10000
