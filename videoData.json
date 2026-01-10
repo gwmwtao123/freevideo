@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Sample Free Video 1",
+    "title": "BX Free Video 1",
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb1.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video1.mp4",
     "duration": "18:59",
-    "views": "50K",
+    "views": "120K",
     "price": 0
   },
   {
     "id": 2,
-    "title": "Sample Premium Video 2",
+    "title": "BX Premium Video 2",
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb2.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video2.mp4",
-    "duration": "19:05",
-    "views": "4.6M",
+    "duration": "21:10",
+    "views": "2.4M",
     "price": 19900
   }
 ]
