@@ -1,7 +1,9 @@
-{
-  "id": 1,
-  "title": "Free Demo Video",
-  "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg",
-  "video": "https://drive.google.com/uc?export=preview&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
-  "price": 0
-}
+[
+  {
+    "id": 1,
+    "title": "Free Demo Video",
+    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg",
+    "video": "https://drive.google.com/uc?export=preview&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
+    "price": 0
+  }
+]
