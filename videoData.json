@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "title": "local video",
+    "title": "Free Updated Demo Video",
     "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg",
-    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video1.mp4",
-    "price": 10000
+    "video": "https://drive.google.com/uc?export=download&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
+    "price": 0
   },
   {
     "id": 2,
-    "title": "Premium Video",
+    "title": "Premium Updated Video",
     "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb2.jpg",
-    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video2.mp4",
+    "video": "https://drive.google.com/uc?export=download&id=1A0i4VK3g5NOWq1gxoiDuvudnGs43SHrH",
     "price": 10000
   }
 ]
