@@ -3,7 +3,14 @@
     "id": 1,
     "title": "Free Demo Video",
     "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg",
-    "video": "https://drive.google.com/uc?export=preview&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
+    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video1.mp4",
     "price": 0
+  },
+  {
+    "id": 2,
+    "title": "Premium Video",
+    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb2.jpg",
+    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video2.mp4",
+    "price": 10000
   }
 ]
