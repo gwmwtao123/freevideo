@@ -3,14 +3,14 @@
     "id": 1,
     "title": "Free Demo Video",
     "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb1.jpg",
-    "video": "https://drive.google.com/uc?export=download&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
-    "price": 0
+    "video": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/video1.mp4",
+    "price": 50
   },
   {
     "id": 2,
     "title": "Premium Video",
     "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb2.jpg",
-    "video": "https://drive.google.com/uc?export=download&id=1A0i4VK3g5NOWq1gxoiDuvudnGs43SHrH",
+    "video": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/video2.mp4",
     "price": 10000
   }
 ]
