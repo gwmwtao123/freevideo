@@ -1,16 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Free Demo Video",
+    "title": "test",
     "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb1.jpg",
     "video": "https://drive.google.com/file/d/1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK/preview",
     "price": 0
-  },
-  {
-    "id": 2,
-    "title": "Premium Video",
-    "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb2.jpg",
-    "video": "https://drive.google.com/file/d/1A0i4VK3g5NOWq1gxoiDuvudnGs43SHrH/preview",
-    "price": 10000
   }
 ]
