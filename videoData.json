@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Bathroom Mein Bhai Ko",
-    "thumb": "https://picsum.photos/400/600?1",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "title": "BX Free Video 1",
+    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumbs/1.jpg",
+    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/videos/video1.mp4",
     "duration": "18:59",
-    "views": "50K"
+    "views": "120K"
   },
   {
     "id": 2,
-    "title": "Indian Desi Video",
-    "thumb": "https://picsum.photos/400/600?2",
-    "video": "https://www.w3schools.com/html/movie.mp4",
-    "duration": "19:05",
-    "views": "4.6M"
+    "title": "BX Free Video 2",
+    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumbs/2.jpg",
+    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/videos/video2.mp4",
+    "duration": "21:10",
+    "views": "2.4M"
   }
 ]
