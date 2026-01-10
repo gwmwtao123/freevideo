@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "BX Free Video 1",
+    "title": "Free Video 1",
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb1.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video1.mp4",
     "duration": "18:59",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "title": "BX Premium Video 2",
+    "title": "Premium Video 2",
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb2.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video2.mp4",
     "duration": "21:10",
