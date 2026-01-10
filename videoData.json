@@ -1,20 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Free Video 1",
+    "title": "Free Updated Demo Video",
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb1.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video1.mp4",
-    "duration": "18:59",
-    "views": "120K",
     "price": 0
   },
   {
     "id": 2,
-    "title": "Premium Video 2",
+    "title": "Premium Updated Video",
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb2.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video2.mp4",
-    "duration": "21:10",
-    "views": "2.4M",
-    "price": 19900
+    "price": 10000
   }
 ]
