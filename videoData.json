@@ -1,18 +1,20 @@
 [
   {
     "id": 1,
-    "title": "BX Free Video 1",
-    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumbs/1.jpg",
-    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/videos/video1.mp4",
-    "duration": "0.20:",
-    "views": "120K"
+    "title": "Sample Free Video 1",
+    "thumb": "https://gwmwtao123.github.io/freevideo/thumb1.jpg",
+    "video": "https://gwmwtao123.github.io/freevideo/video1.mp4",
+    "duration": "18:59",
+    "views": "50K",
+    "price": 0
   },
   {
     "id": 2,
-    "title": "BX Free Video 2",
-    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumbs/2.jpg",
-    "video": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/videos/video2.mp4",
-    "duration": "21:10",
-    "views": "2.4M"
+    "title": "Sample Premium Video 2",
+    "thumb": "https://gwmwtao123.github.io/freevideo/thumb2.jpg",
+    "video": "https://gwmwtao123.github.io/freevideo/video2.mp4",
+    "duration": "19:05",
+    "views": "4.6M",
+    "price": 19900
   }
 ]
