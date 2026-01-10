@@ -12,5 +12,13 @@
     "thumb": "https://gwmwtao123.github.io/freevideo/thumb2.jpg",
     "video": "https://gwmwtao123.github.io/freevideo/video2.mp4",
     "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Premium Updated Video",
+    "thumb": "https://gwmwtao123.github.io/freevideo/thumb3.jpg",
+    "video": "https://gwmwtao123.github.io/freevideo/video3.mp4",
+    "price": 100
   }
 ]
+
