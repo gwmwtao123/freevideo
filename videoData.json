@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "www",
-    "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb1.jpg",
-    "video": "https://drive.google.com/file/d/1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK/preview",
-    "price": 10
+    "title": "Test Video",
+    "thumb": "https://via.placeholder.com/300x200.png?text=Demo+Thumbnail",
+    "video": "https://drive.google.com/uc?export=download&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
+    "price": 0
   }
 ]
