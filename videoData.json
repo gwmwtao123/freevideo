@@ -1,16 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Free Video",
-    "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb1.jpg",
+    "title": "Free Demo Video",
+    "thumb": "https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg",
     "video": "https://player.vimeo.com/video/1153122311",
     "price": 0
-  },
-  {
-    "id": 2,
-    "title": "Premium Video",
-    "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb2.jpg",
-    "video": "https://player.vimeo.com/video/115312XXXX",
-    "price": 10000
   }
 ]
