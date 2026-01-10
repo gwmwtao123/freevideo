@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Free Video 1",
+    "title": "Free Demo Video",
     "thumb": "thumb1.jpg",
-    "video": "video1.mp4",
-    "price": 2
+    "video": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/video1.mp4",
+    "price": 0
   },
   {
     "id": 2,
     "title": "Premium Video",
     "thumb": "thumb2.jpg",
-    "video": "video2.mp4",
+    "video": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/video2.mp4",
     "price": 10000
   }
 ]
