@@ -2,15 +2,8 @@
   {
     "id": 1,
     "title": "Free Demo Video",
-    "thumb": "thumb1.jpg",
-    "video": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/video1.mp4",
+    "thumb": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/thumb1.jpg",
+    "video": "https://drive.google.com/uc?export=download&id=1HPZcc3ymkp2ZvVwUHUblV28i3GF0M_lK",
     "price": 0
-  },
-  {
-    "id": 2,
-    "title": "Premium Video",
-    "thumb": "thumb2.jpg",
-    "video": "https://cdn.jsdelivr.net/gh/gwmwtao123/freevideo/video2.mp4",
-    "price": 10000
   }
 ]
