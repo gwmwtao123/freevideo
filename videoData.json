@@ -1,32 +1,23 @@
 [
-  {"id":1,"title":"Video 1","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb1.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video1.mp4","price":0},
-  {"id":2,"title":"Video 2","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb2.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video2.mp4","price":299},
-  {"id":3,"title":"Video 3","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb3.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video3.mp4","price":0},
-  {"id":4,"title":"Video 4","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb4.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video4.mp4","price":299},
-  {"id":5,"title":"Video 5","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb5.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video5.mp4","price":0},
-  {"id":6,"title":"Video 6","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb6.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video6.mp4","price":299},
-  {"id":7,"title":"Video 7","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb7.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video7.mp4","price":0},
-  {"id":8,"title":"Video 8","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb8.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video8.mp4","price":299},
-  {"id":9,"title":"Video 9","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb9.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video9.mp4","price":0},
-  {"id":10,"title":"Video 10","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb10.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video10.mp4","price":299},
-  {"id":11,"title":"Video 11","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb11.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video11.mp4","price":0},
-  {"id":12,"title":"Video 12","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb12.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video12.mp4","price":299},
-  {"id":13,"title":"Video 13","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb13.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video13.mp4","price":0},
-  {"id":14,"title":"Video 14","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb14.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video14.mp4","price":299},
-  {"id":15,"title":"Video 15","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb15.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video15.mp4","price":0},
-  {"id":16,"title":"Video 16","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb16.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video16.mp4","price":299},
-  {"id":17,"title":"Video 17","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb17.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video17.mp4","price":0},
-  {"id":18,"title":"Video 18","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb18.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video18.mp4","price":299},
-  {"id":19,"title":"Video 19","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb19.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video19.mp4","price":0},
-  {"id":20,"title":"Video 20","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb20.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video20.mp4","price":299},
-  {"id":21,"title":"Video 21","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb21.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video21.mp4","price":0},
-  {"id":22,"title":"Video 22","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb22.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video22.mp4","price":299},
-  {"id":23,"title":"Video 23","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb23.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video23.mp4","price":0},
-  {"id":24,"title":"Video 24","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb24.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video24.mp4","price":299},
-  {"id":25,"title":"Video 25","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb25.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video25.mp4","price":0},
-  {"id":26,"title":"Video 26","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb26.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video26.mp4","price":299},
-  {"id":27,"title":"Video 27","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb27.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video27.mp4","price":0},
-  {"id":28,"title":"Video 28","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb28.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video28.mp4","price":299},
-  {"id":29,"title":"Video 29","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb29.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video29.mp4","price":0},
-  {"id":30,"title":"Video 30","thumb":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/thumb30.jpg","video":"https://raw.githubusercontent.com/gwmwtao123/freevideo/main/video30.mp4","price":299}
+  {
+    "id": 1,
+    "title": "Sample Free Video",
+    "thumb": "https://picsum.photos/400/600?1",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "price": 19900
+  },
+  {
+    "id": 2,
+    "title": "Premium Video 1",
+    "thumb": "https://picsum.photos/400/600?2",
+    "video": "https://www.w3schools.com/html/movie.mp4",
+    "price": 19900
+  },
+  {
+    "id": 3,
+    "title": "Premium Video 2",
+    "thumb": "https://picsum.photos/400/600?3",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "price": 29900
+  }
 ]
